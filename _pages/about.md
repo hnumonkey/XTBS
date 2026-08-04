@@ -8,7 +8,8 @@ redirect_from:
 ---
 ## Welcome
 
-Welcome to the **Advanced Ultra-Wide Bandgap Semiconductor Laboratory** in the School of Electrical, Electronic and Mechanical Engineering at the **University of Bristol**.
+Welcome to the **Xiao Lab** in the School of Electrical, Electronic and Mechanical Engineering, a part of Center for Device Thermography and Reliability
+(CDTR) at the **University of Bristol**.
 
 Our research focuses on **ultra-wide-bandgap semiconductor materials and devices** for next-generation **power electronics**, **space electronics**, and **radiation-hardened technologies**. We combine advanced thin-film epitaxy, materials characterisation and device engineering to develop semiconductor platforms capable of operating under extreme electrical, thermal and radiation environments.
 
