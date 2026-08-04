@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "People"
-permalink: /people/
+title: "Group members"
+permalink: /Group members/
 author_profile: false
 ---
 
