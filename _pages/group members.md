@@ -10,7 +10,7 @@ author_profile: false
 <table>
 <tr>
 <td width="180">
-<img src="/XTBS/images/GithubProfile.jpg" width="150">
+<img src="/XTBS/images/xiao2.jpg" width="150">
 </td>
 
 <td>
