@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Your Name / Site Title"
+site_theme               : "Xiao Lab" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title                    : "Dr"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Xiao Tang"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -26,16 +26,16 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Dr Xiao Tang is an Assistant Professor in the School of Electrical, Electronic and Mechanical Engineering at the University of Bristol. His research focuses on ultra-wide-bandgap semiconductors for next-generation power electronics and space technologies. Current research interests include epitaxial growth, materials characterisation and device fabrication of oxide and diamond semiconductors, with particular emphasis on Ga₂O₃, rutile GeO₂ and diamond for high-power, high-temperature and radiation-hard electronic devices."
+  location         : "Bristol"
+  employer         : "University of Bristol"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "xiao.tang@bristol.ac.uk" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=_SoPoSIAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
   orcid            : "https://orcid.org/yourorcidurl"
