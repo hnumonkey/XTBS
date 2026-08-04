@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "GithubProfile.jpg"
+  avatar           : "/images/GithubProfile.jpg"
   name             : "Xiao Tang"
   pronouns         : # example: "she/her"  
   bio              : "Dr Xiao Tang is an Assistant Professor in the School of Electrical, Electronic and Mechanical Engineering at the University of Bristol. His research focuses on ultra-wide-bandgap semiconductors for next-generation power electronics and space technologies. Current research interests include epitaxial growth, materials characterisation and device fabrication of oxide and diamond semiconductors, with particular emphasis on Ga₂O₃, rutile GeO₂ and diamond for high-power, high-temperature and radiation-hard electronic devices."
