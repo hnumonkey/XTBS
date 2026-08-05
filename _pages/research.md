@@ -1,10 +1,8 @@
----
+
 layout: archive
 permalink: /research/
 author_profile: true
 ---
-
-# Research
 
 <p align="center">
 <img src="/images/research.png" width="800">
