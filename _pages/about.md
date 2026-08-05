@@ -6,6 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<p align="center">
+<img src="/XTBS/images/banner.png" width="100%">
+</p>
 ## Welcome
 
 Welcome to the **Xiao Lab** in the School of Electrical, Electronic and Mechanical Engineering, a part of Center for Device Thermography and Reliability
