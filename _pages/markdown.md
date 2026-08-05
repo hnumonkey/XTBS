@@ -5,7 +5,6 @@ permalink: /markdown/
 author_profile: true
 ---
 
-# Join Xiao Lab
 
 We are always looking for highly motivated students who are interested in semiconductor materials, epitaxial growth, power electronics and electronic devices.
 
