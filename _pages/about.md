@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Xiao Lab"
+title: "DiaGaGe Lab"
 author_profile: true
 redirect_from: 
   - /about/
@@ -11,7 +11,7 @@ redirect_from:
 </p>
 ## Welcome
 
-Welcome to the **Xiao Lab** in the School of Electrical, Electronic and Mechanical Engineering, a part of Center for Device Thermography and Reliability
+Welcome to the **DiaGaGe Lab (Diamond+ Ga2O3+ GeO2)** in the School of Electrical, Electronic and Mechanical Engineering, a part of Center for Device Thermography and Reliability
 (CDTR) at the **University of Bristol**.
 
 Our research focuses on **ultra-wide-bandgap semiconductor materials and devices** for next-generation **power electronics**, **space electronics**, and **radiation-hardened technologies**. We combine advanced thin-film epitaxy, materials characterisation and device engineering to develop semiconductor platforms capable of operating under extreme electrical, thermal and radiation environments.
