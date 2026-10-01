@@ -46,7 +46,22 @@ Email: xiao.tang@bristol.ac.uk
 <b>PhD Student (2026–Present)</b><br><br>
 
 <b>Project</b><br>
-Mist-CVD growth of rutile GeO₂ thin films for ultra-wide-bandgap power devices.
+CSD of rutile GeO₂ thin films for ultra-wide-bandgap power devices.
+</td>
+</tr>
+
+<tr>
+<td width="180">
+<img src="/XTBS/images/ProcessImageRequest.jpg" width="150">
+</td>
+
+<td>
+<h2>Xinyu Yang</h2>
+
+<b>PhD Student (2026–Present)</b><br><br>
+
+<b>Project</b><br>
+Simulation of electrical performances of REBCO superconductor tapes
 </td>
 </tr>
 
