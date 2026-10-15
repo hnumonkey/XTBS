@@ -1,18 +1,10 @@
-i# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your entire site, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# `jekyll serve -l -H localhost`. If you change this file, please restart the 
-# server process.
-
 # Basic Site Settings
-locale                   : "en-UK"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "EpiTaXi LAB"
-title_separator          : "-"
-name                     : &name "Xiao Tang"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+locale: "en-UK"
+site_theme: "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+title: "EpiTaXi LAB"
+title_separator: "-"
+name: &name "Xiao Tang"
+description: &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url: "https://hnumonkey.github.io"
 baseurl: "/XTBS"
 repository: "hnumonkey/XTBS"
@@ -22,64 +14,64 @@ repository: "hnumonkey/XTBS"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "xiao.jpg"
-  name             : "Xiao Tang"
-  pronouns         : # example: "she/her"  
-  bio              : "Dr Xiao Tang is an Assistant Professor in the School of Electrical, Electronic and Mechanical Engineering at the University of Bristol. His research focuses on ultra-wide-bandgap semiconductors for next-generation power electronics and space technologies. Current research interests include epitaxial growth, materials characterisation and device fabrication of oxide and diamond semiconductors, with particular emphasis on Ga₂O₃, rutile GeO₂ and diamond for high-power, high-temperature and radiation-hard electronic devices."
-  location         : "Bristol"
-  employer         : "University of Bristol"
-  uri              : # URL
-  email            : "xiao.tang@bristol.ac.uk" 
+  avatar             : "xiao.jpg"
+  name               : "Xiao Tang"
+  pronouns           : # example: "she/her"  
+  bio                : "Dr Xiao Tang is an Assistant Professor in the School of Electrical, Electronic and Mechanical Engineering at the University of Bristol. His research focuses on ultra-wide-bandgap semiconductors for next-generation power electronics and space technologies. Current research interests include epitaxial growth, materials characterisation and device fabrication of oxide and diamond semiconductors, with particular emphasis on Ga₂O₃, rutile GeO₂ and diamond for high-power, high-temperature and radiation-hard electronic devices."
+  location           : "Bristol"
+  employer           : "University of Bristol"
+  uri                : # URL
+  email              : "xiao.tang@bristol.ac.uk" 
 
   # Academic websites
-  academia         : # URL
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=_SoPoSIAAAAJ&hl=en"
-  inspire-hep      : # URL
-  impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
-  semantic         : # URL
-  ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
-  zotero           : # URL
+  academia           : # URL
+  arxiv              : # URL - Update with the correct link to your profile
+  googlescholar      : "https://scholar.google.com/citations?user=_SoPoSIAAAAJ&hl=en"
+  inspire-hep        : # URL
+  impactstory        : # URL
+  orcid              : "https://orcid.org/yourorcidurl"
+  semantic           : # URL
+  ssrn               : # URL
+  pubmed             : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate       : # URL
+  scopus             : # URL
+  zotero             : # URL
 
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
-  github           : "academicpages"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  bitbucket          : # Username - Update with your username on the site
+  codepen            : # Username
+  dribbble           : # Username
+  github             : "academicpages"
+  kaggle             : # Username  
+  stackoverflow      : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
-  facebook         : # Username
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
-  instagram        : # Username
-  lastfm           : # Username
-  linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
+  artstation         : # Username
+  bluesky            : "bsky.app" # Replace this with you Bluesky username
+  facebook           : # Username
+  flickr             : # Username
+  foursquare         : # Username
+  goodreads          : # Username
+  google_plus        : # Username
+  keybase            : # Username
+  instagram          : # Username
+  lastfm             : # Username
+  linkedin           : # Username
+  mastodon           : # URL
+  medium             : # URL
+  pinterest          : # Username
+  soundcloud         : # Username
+  steam              : # Username
+  telegram           : # URL
+  tumblr             : # Username
+  twitter            : # Username for X / Twitter
+  vine               : # Username
+  weibo              : # Username
+  wikipedia          : # Username
+  xing               : # Username
+  youtube            : # Username
+  zhihu              : # Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
@@ -96,7 +88,7 @@ breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false      #change to true to add link to talkmap on talks page
+talkmap_link             : false     #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -324,36 +316,14 @@ whitelist:
 
 
 # Archives
-#  Type
-#  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
-#  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
-#  Path (examples)
-#  - Archive page should exist at path when using Liquid method or you can
-#    expect broken links (especially with breadcrumbs enabled)
-#  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
-#  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
-#  - <base_path/my-awesome-category/index.html ~> path: /
 category_archive:
   type: liquid
   path: /categories/
 tag_archive:
   type: liquid
   path: /tags/
-# https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
-#     - tags
-#   layouts:
-#     category: archive-taxonomy
-#     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
-#     tag: /tags/:name/
-
 
 # HTML Compression
-# - https://jch.penibelst.de/
 compress_html:
   clippings: all
   ignore:
