@@ -6,7 +6,8 @@ author_profile: true
 ---
 
 ## 2026
-- **October 21, 2026** — Dr. Xiao Tang gave an invited talk at the The 2nd Symposium on Gallium Oxide Materials and Electronics
+- **October 29, 2026** — Dr. Xiao Tang gave an invited talk at the The 2nd Symposium on Gallium Oxide Materials and Electronics
+- 
   <img src="{{ '/images/hangzhou.jpg' | relative_url }}" alt="Dr. Xiao Tang gave an invited talk at the The 2nd Symposium on Gallium Oxide Materials and Electronics" style="width: 500px; max-width: 100%; height: auto;">
   
 ## 2026
